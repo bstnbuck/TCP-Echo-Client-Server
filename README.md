@@ -15,5 +15,5 @@ There is nothing to install :D
 ## Features
 * The principle is that of an echo. When the client sends a text string to the server, the server receives it and sends it back originally (echo) 
   
-### Informations
+### Information
 * The Code is self-explanatory commented
